@@ -39,7 +39,7 @@ GET `/cart/`
 
 return the current cart and it's items.
 
-POST `/cart/add_item/`
+POST `/cart/add/`
 
 allows you to add items in the cart.
 
