@@ -49,7 +49,7 @@ remove item from the cart
 
 #### Example ####
 
-POST`/cart/add_item/`
+POST`/cart/add/`
 
 {
     
